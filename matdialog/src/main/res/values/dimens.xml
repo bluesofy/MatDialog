@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="material_size_atom">8dp</dimen>
+    <dimen name="margin_common">16dp</dimen>
+    <dimen name="padding_common">24dp</dimen>
+
+    <dimen name="icon_size_normal">32sp</dimen>
+    <dimen name="icon_size_big">24sp</dimen>
+    <dimen name="icon_size_huge">60sp</dimen>
+
+    <dimen name="font_size_content">16sp</dimen>
+    <dimen name="font_size_sub_title">18sp</dimen>
+    <dimen name="font_size_title">20sp</dimen>
+    <dimen name="font_size_display">24sp</dimen>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatDialog</string>
+
+    <string name="btn_positive">好的</string>
+    <string name="btn_negative">取消</string>
+    <string name="btn_neutral">忽略</string>
+
+    <string name="txt_loading">Loading…</string>
+</resources>
