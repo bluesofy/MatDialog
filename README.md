@@ -30,7 +30,7 @@ allprojects {
 compile 'com.github.bluesofy:MatDialog:1.0'
 compile 'com.android.support:support-v4:25.1.0'    // v4库
 ```
-- 简单实用，参考
+- 简单使用，具体请参考
 [MainActivity](https://github.com/bluesofy/MatDialog/blob/master/app/src/main/java/cn/byk/pandora/matdialoglib/MainActivity.java)
 ```java
 MatDialog.with(this)
