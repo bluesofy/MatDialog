@@ -1,6 +1,6 @@
 # MatDialog
 
-[![](https://jitpack.io/v/bluesofy/MatDialog.svg)](https://jitpack.io/#bluesofy/MatDialog)
+[ ![Download](https://api.bintray.com/packages/blueyuki/maven/MatDialog/images/download.svg) ](https://bintray.com/blueyuki/maven/MatDialog/_latestVersion)
 
 Material Design Dialog
 [README on GitHub](https://github.com/bluesofy/MatDialog/blob/master/README.md)
@@ -16,19 +16,10 @@ Material Design Dialog
 <br>
 
 ### 使用说明  Usage
-- 在工程目录下的'build.gradle'中添加'JitPack'声明
+- 添加依赖
 ```gradle
-allprojects {
-    repositories {
-        …
-        maven { url 'https://jitpack.io' }
-    }
-}
-```
-- 在主模块下的'build.gradle'中添加依赖
-```gradle
-compile 'com.github.bluesofy:MatDialog:1.0'
-compile 'com.android.support:support-v4:25.1.0'    // v4库
+compile 'cn.byk.pandora:matdialog:1.1'
+compile 'com.android.support:support-v4:25.1.1'    // v4库
 ```
 - 简单使用，具体请参考
 [MainActivity](https://github.com/bluesofy/MatDialog/blob/master/app/src/main/java/cn/byk/pandora/matdialoglib/MainActivity.java)
