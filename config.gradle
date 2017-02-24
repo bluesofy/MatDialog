@@ -12,7 +12,7 @@ ext {
     espressoVersion = '2.2.2'
 
     // version
-    versionCode = '11'
+    versionCode = '12'
 
     // Bin-tray
     bintrayRepo = 'maven'
@@ -21,13 +21,13 @@ ext {
     publishedGroupId = 'cn.byk.pandora'
     artifact = 'matdialog'
     libraryName = 'MatDialog'
-    libraryVersion = '1.1'
+    libraryVersion = '1.2'
 
     libraryDescription = 'Material Design Dialog'
 
     siteUrl = 'https://github.com/bluesofy/MatDialog'
     gitUrl = 'https://github.com/bluesofy/MatDialog.git'
-    javaDocUrl = 'https://github.com/bluesofy/MatDialog/tree/master/lib/docs/javadoc'
+    javaDocUrl = 'https://github.com/bluesofy/MatDialog/tree/master/matdialog/docs/javadoc'
 
     developerId = 'blueyuki'
     developerName = 'Byk'

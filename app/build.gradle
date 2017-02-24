@@ -32,7 +32,7 @@ dependencies {
     })
 
 //    compile project(':matdialog')
-    compile 'cn.byk.pandora:matdialog:1.1'
+    compile 'cn.byk.pandora:matdialog:1.2'
 
     compile "com.android.support:appcompat-v7:$rootProject.ext.supportLibraryVersion"
 }
